@@ -38,4 +38,4 @@
 -- JOIN weather ON (weather.city = cities.name)
 
 
--- YOUR CODE HERE
+SELECT amount, food_stuff FROM ingredients
